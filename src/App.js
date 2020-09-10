@@ -1,5 +1,4 @@
 import React from 'react';
-import "./App.css"
 import * as ReactBootStrap from "react-bootstrap";
 import Navbar from "./component/Navbar";
 import CardsCharacters from "./component/CardsCharacters";

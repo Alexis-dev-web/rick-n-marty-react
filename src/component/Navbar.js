@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "../App.css";
 import * as ReactBootStrap from "react-bootstrap";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 

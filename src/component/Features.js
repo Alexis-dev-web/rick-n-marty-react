@@ -1,6 +1,4 @@
 import React,  { useState, useEffect } from "react";
-import "./Box.css";
-import { Howl } from "howler";
 import {Link, useLocation} from "react-router-dom";
 
 const Features = () => {

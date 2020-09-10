@@ -1,5 +1,4 @@
 import React,  { useState, useEffect } from "react";
-import "./Box.css";
 import { Card, Button, Alert } from "react-bootstrap";
 import {Link, useLocation} from "react-router-dom";
 
